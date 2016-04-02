@@ -1,0 +1,12 @@
+﻿  FiveChessDlg.cpp
+FiveChessDlg.cpp(495): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+FiveChessDlg.cpp(504): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+FiveChessDlg.cpp(527): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+FiveChessDlg.cpp(536): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+FiveChessDlg.cpp(801): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+  2 of 247 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FiveChess.vcxproj -> D:\Document\Users\x\Desktop\FiveChess_cx\FiveChess\Release\FiveChess.exe

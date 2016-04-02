@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  MySocket.cpp
+  InternetDlg.cpp
+  FiveChessDlg.cpp
+d:\document\users\x\desktop\fivechess_cx\fivechess\fivechess\fivechessdlg.cpp(494): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\document\users\x\desktop\fivechess_cx\fivechess\fivechess\fivechessdlg.cpp(503): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\document\users\x\desktop\fivechess_cx\fivechess\fivechess\fivechessdlg.cpp(526): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\document\users\x\desktop\fivechess_cx\fivechess\fivechess\fivechessdlg.cpp(535): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\document\users\x\desktop\fivechess_cx\fivechess\fivechess\fivechessdlg.cpp(801): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  FiveChess.cpp
+  About.cpp
+  正在生成代码...
+  FiveChess.vcxproj -> D:\Document\Users\x\Desktop\FiveChess_cx\FiveChess\Debug\FiveChess.exe
